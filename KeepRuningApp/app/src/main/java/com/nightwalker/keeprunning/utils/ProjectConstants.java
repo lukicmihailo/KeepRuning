@@ -1,5 +1,7 @@
 package com.nightwalker.keeprunning.utils;
 
+import android.app.Application;
+
 /**
  * Created by Westi on 7/18/2016.
  */
