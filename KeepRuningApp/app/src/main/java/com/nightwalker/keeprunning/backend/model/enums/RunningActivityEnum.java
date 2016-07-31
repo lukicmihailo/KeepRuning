@@ -33,4 +33,8 @@ public enum RunningActivityEnum{
                 return ProjectConstants.SIMPLE_RUNNING;
         }
     }
+
+    public int getIntValue(){
+        return intValue;
+    }
 }
